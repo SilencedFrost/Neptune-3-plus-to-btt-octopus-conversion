@@ -1,17 +1,4 @@
-
-
- ____  _____  _____    ____  ____  _____  ____  ____  _     ____               
-/  __\/__ __\/__ __\  /  _ \/   _\/__ __\/  _ \/  __\/ \ /\/ ___\              
-| | //  / \    / \    | / \||  /    / \  | / \||  \/|| | |||    \              
-| |_\\  | |    | |    | \_/||  \__  | |  | \_/||  __/| \_/|\___ |              
-\____/  \_/    \_/    \____/\____/  \_/  \____/\_/   \____/\____/              
-                                                                               
- _      _____ ____  _____  _     _      _____  _____    ____  _     _     ____ 
-/ \  /|/  __//  __\/__ __\/ \ /\/ \  /|/  __/  \__  \  /  __\/ \   / \ /\/ ___\
-| |\ |||  \  |  \/|  / \  | | ||| |\ |||  \      /  |  |  \/|| |   | | |||    \
-| | \|||  /_ |  __/  | |  | \_/|| | \|||  /_    _\  |  |  __/| |_/\| \_/|\___ |
-\_/  \|\____\\_/     \_/  \____/\_/  \|\____\  /____/  \_/   \____/\____/\____/
-                                                                               
+                                      
 
 So, you have a Neptune 3 Plus? You're a tinkerer who just can't stand how slow the ol' reliable has become and wants to take it to the next level? Enter this ridiculous upgrade. 
 
@@ -20,3 +7,14 @@ This board will let you do multi-toolhead setups and can allow you to put more p
 RECOMMENDED PRINT MATERIALS:
 
 High temp-resistant filaments such as PETG, PET, ABS, etc. We're not your parents. We can't stop you from printing in PLA and melting your front plate and/or bottom plate and/or mounts to the board. Someone in the comments may say it "worked for them well enough." We'd add "for now," to that comment and remind you that the Octopus is an expensive board to replace.
+
+BILL OF MATERIALS: 
+
+SAVE THE STOCK SCREWS! Amounts listed are considered IN ADDITION TO stock screws.
+Screws xx
+M3 Heatset Inserts xx
+Temp Resistant filament (NOT PLA FOR THE LOVE OF THE GODS)
+Adhesives (recommend superglue for the magnets and flexible epoxy for the bottom plate parts, though superglue can work for the latter if it's all you have)
+XX MM magnets 
+
+We expect that before you begin, you will have already installed the motor and hotend upgrades you had wanted to in order to justify the additional power regulation and better stepper drivers on the board. As such, we're not including tutorials on replacing the motors and/or hotend. There are plenty of onling guides.
