@@ -20,14 +20,14 @@ Adhesives (recommend superglue for the magnets and flexible epoxy for the bottom
 
 This is the minimum amount, please get more
 
-|No.|Title|Amount|
-|---|-----|------|
-|1|BHCS M3 * 8mm|10|
-|2|BHCS M3 * 16mm|2|
-|3|BHCS M3 * 20mm|8|
-|4|M3 heatset inserts|20|
-|5|14mm M3 standoff (male-demale)|2|
-|6|10x2mm circular neodymium magnets|10|
+|No.|Title                              |Amount|
+|---|-----------------------------------|------|
+|1  |BHCS M3 * 8mm                      |10    |
+|2  |BHCS M3 * 16mm                     |2     |
+|3  |BHCS M3 * 20mm                     |8     |
+|4  |M3 heatset inserts                 |20    |
+|5  |14mm M3 standoff (male-demale)     |2     |
+|6  |10 * 2mm circular neodymium magnets|10    |
 
 
 
