@@ -12,14 +12,23 @@ BILL OF MATERIALS:
 
 SAVE THE STOCK SCREWS! Amounts listed are considered IN ADDITION TO stock screws.
 
-The bottom panel is screwed on via the stock screws, therefore they won't be included in the BOM table
+The bottom and front panel is screwed on via the stock screws, therefore they won't be included in the BOM table
 
 Temp Resistant filament (NOT PLA FOR THE LOVE OF THE GODS)
 
 Adhesives (recommend superglue for the magnets and flexible epoxy for the bottom plate parts, though superglue can work for the latter if it's all you have)
 
+This is the minimum amount, please get more
+
 |No.|Title|Amount|
 |---|-----|------|
-|1|M3 * screws|x|
+|1|BHCS M3 * 8mm|10|
+|2|BHCS M3 * 16mm|2|
+|3|BHCS M3 * 20mm|8|
+|4|M3 heatset inserts|20|
+|5|14mm M3 standoff (male-demale)|2|
+|6|10x2mm circular neodymium magnets|10|
+
+
 
 We expect that before you begin, you will have already installed the motor and hotend upgrades you had wanted to in order to justify the additional power regulation and better stepper drivers on the board. As such, we're not including tutorials on replacing the motors and/or hotend. There are plenty of onling guides.
