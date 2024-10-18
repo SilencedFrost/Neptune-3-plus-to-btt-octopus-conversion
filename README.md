@@ -11,9 +11,13 @@ High temp-resistant filaments such as PETG, PET, ABS, etc. We're not your parent
 BILL OF MATERIALS: 
 
 SAVE THE STOCK SCREWS! Amounts listed are considered IN ADDITION TO stock screws.
+
 The bottom panel is screwed on via the stock screws, therefore they won't be included in the BOM table
+
 Temp Resistant filament (NOT PLA FOR THE LOVE OF THE GODS)
+
 Adhesives (recommend superglue for the magnets and flexible epoxy for the bottom plate parts, though superglue can work for the latter if it's all you have)
+
 |No.|Title|Amount|
 |---|-----|------|
 |1|M3 * screws|x|
