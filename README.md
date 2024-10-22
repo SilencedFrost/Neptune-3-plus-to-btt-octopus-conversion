@@ -39,9 +39,7 @@ ASSEMBLY GUIDE
 
 ![Fan duct brace x2](Files/Images/Fan%20duct%20brace.png)
 ![Back brackets x2](Files/Images/Back%20bracket.png)
-
 ![Bottom panel piece 1](Files/Images/Bottom%20panel%20piece%201.png)
 ![Bottom pabel piece 3](Files/Images/Bottom%20panel%20piece%203.png)
-
 ![Front panel left frame](Files/Images/Front%20panel%20left%20frame.png)
 ![Front panel right frame](Files/Images/Front%20panel%20right%20frame.png)
