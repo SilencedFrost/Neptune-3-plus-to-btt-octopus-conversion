@@ -37,4 +37,4 @@ ASSEMBLY GUIDE
 
 1. Heatset insert
 
-![Fan_duct_brace](Files/Images/Fan duct brace.png)
+![Fan_duct_brace](Files/Images/Fan%20duct%20brace.png)
