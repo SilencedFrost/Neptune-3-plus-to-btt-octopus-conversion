@@ -37,4 +37,4 @@ ASSEMBLY GUIDE
 
 1. Heatset insert
 
-[Fan_duct_brace.png](Files/Images/Fan duct brace.png)
+[Fan_duct_brace.png](https://github.com/SilencedFrost/Neptune-3-plus-to-btt-octopus-conversion/blob/main/Files/Images/Fan%20duct%20brace.png)
