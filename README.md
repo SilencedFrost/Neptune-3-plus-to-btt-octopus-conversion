@@ -31,4 +31,10 @@ This is the minimum amount, please get more
 
 
 
-We expect that before you begin, you will have already installed the motor and hotend upgrades you had wanted to in order to justify the additional power regulation and better stepper drivers on the board. As such, we're not including tutorials on replacing the motors and/or hotend. There are plenty of onling guides.
+We expect that before you begin, you will have already installed the motor and hotend upgrades you had wanted to in order to justify the additional power regulation and better stepper drivers on the board. As such, we're not including tutorials on replacing the motors and/or hotend. There are plenty of online guides.
+
+ASSEMBLY GUIDE
+
+1. Heatset insert
+
+[fan duct brace](https://github.com/SilencedFrost/Neptune-3-plus-to-btt-octopus-conversion/blob/main/Files/Images/Fan%20duct%20brace.png)
