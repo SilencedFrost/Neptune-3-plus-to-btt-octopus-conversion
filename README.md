@@ -33,13 +33,4 @@ This is the minimum amount, please get more
 
 We expect that before you begin, you will have already installed the motor and hotend upgrades you had wanted to in order to justify the additional power regulation and better stepper drivers on the board. As such, we're not including tutorials on replacing the motors and/or hotend. There are plenty of online guides.
 
-ASSEMBLY GUIDE
-
-1. Heatset insert
-
-![Fan duct brace x2](Files/Images/Fan%20duct%20brace.png)
-![Back brackets x2](Files/Images/Back%20bracket.png)
-![Bottom panel piece 1](Files/Images/Bottom%20panel%20piece%201.png)
-![Bottom pabel piece 3](Files/Images/Bottom%20panel%20piece%203.png)
-![Front panel left frame](Files/Images/Front%20panel%20left%20frame.png)
-![Front panel right frame](Files/Images/Front%20panel%20right%20frame.png)
+Let the CAD be your assembly guide!
